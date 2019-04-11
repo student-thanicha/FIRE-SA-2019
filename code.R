@@ -1,2 +1,4 @@
 plot()
+preparePoster()
 finished!
+makePoster()
